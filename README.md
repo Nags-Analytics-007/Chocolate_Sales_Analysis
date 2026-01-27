@@ -52,4 +52,4 @@ All visuals are connected through the underlying data model:
 3. Provide the required data source path/parameters if prompted, and refresh the data.
 4. Use the date slider, product filters, and other slicers to interact with the visuals and explore the chocolate sales performance from different perspectives.
 
-https://github.com/Nags-Analytics-007/Chocolate_Sales_Analysis/blob/main/chocolate_sales_dashbord.png
+![Dashboard Preview](https://github.com/Nags-Analytics-007/Chocolate_Sales_Analysis/blob/main/chocolate_sales_dashbord.png)
